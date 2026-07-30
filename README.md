@@ -36,7 +36,7 @@ Project Indygo features tailored profiles to adapt to different hardware capabil
 ### 💻 Hardware Architecture Support
 
 * **ARM64 Embedded (Raspberry Pi 5, Radxa Rock 5B):** Low-overhead ARM64 architecture optimized for single-board computers, custom field hardware, and portable diagnostic rigs.
-* **AMD64 Standard (x86_64 Workstations & Field Laptops):** Full binary compatibility for x86_64 platforms, leveraging multi-core CPU optimizations and hardware-accelerated cryptanalysis.
+* **AMD64 Standard (x86_64 Workstations & Field Laptops):** Full binary compatibility for x86_64 platforms, leveraging multi-core CPU optimizations and hardware-accelerated cryptanalysis. **(COMING SOON!)**
 
 ---
 
