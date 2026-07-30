@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="MKG Cybersecurity Solutions logo.png" alt="MKG Cybersecurtiy Solutions Logo" width="400">
+  <img src="MKG Cybersecurity Solutions Logo No Background.png" alt="MKG Cybersecurtiy Solutions Logo" width="400">
 </p>
 
 # 🛡️ **MKG-OS**
